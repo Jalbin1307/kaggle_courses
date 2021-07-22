@@ -4,11 +4,14 @@
 
 ---
 ## Course
-- [Python](https://github.com/Jalbin1307/kaggle_courses/tree/main/Python)
+- [Python](https://github.com/Jalbin1307/kaggle_courses/tree/main/Python) (2021.07.22)
 - Pandas
 - Intro to Machine Learning
 
----
-## Complete
 
-![Jalbin - Python](https://user-images.githubusercontent.com/70004933/126608806-4a31943b-17b8-4add-a8e3-dea1aa81079b.png){: width="100" height="100"}
+
+
+---
+## Certificate
+
+<img src="https://user-images.githubusercontent.com/70004933/126608806-4a31943b-17b8-4add-a8e3-dea1aa81079b.png" width="400" height="300"/>

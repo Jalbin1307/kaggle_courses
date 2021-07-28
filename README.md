@@ -8,7 +8,7 @@
 - [Pandas](https://github.com/Jalbin1307/kaggle_courses/tree/main/Pandas) (2021.07.23)
 - [Intro to Machine Learning](https://github.com/Jalbin1307/kaggle_courses/tree/main/Intro_to_Machine_Learning) (2021.07.26)
 - [Data Cleaning](https://github.com/Jalbin1307/kaggle_courses/tree/main/Data_Cleaning) (2021.07.27)
-
+- [Data Visualization](https://github.com/Jalbin1307/kaggle_courses/tree/main/Data_Visualization)
 
 
 

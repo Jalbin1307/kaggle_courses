@@ -10,7 +10,7 @@
 - [Data Cleaning](https://github.com/Jalbin1307/kaggle_courses/tree/main/Data_Cleaning)
 - [Data Visualization](https://github.com/Jalbin1307/kaggle_courses/tree/main/Data_Visualization)
 - [Machine Learning Explainability](https://github.com/Jalbin1307/kaggle_courses/tree/main/Machine_Learning_Explainability)
-
+- [Intermediate Machine Learning](https://github.com/Jalbin1307/kaggle_courses/tree/main/Intermediate_Machine_Learning)
 
 
 

@@ -11,7 +11,9 @@
 - [Data Visualization](https://github.com/Jalbin1307/kaggle_courses/tree/main/Data_Visualization)
 - [Machine Learning Explainability](https://github.com/Jalbin1307/kaggle_courses/tree/main/Machine_Learning_Explainability)
 - [Intermediate Machine Learning](https://github.com/Jalbin1307/kaggle_courses/tree/main/Intermediate_Machine_Learning)
+- [Feature_Engineering](https://github.com/Jalbin1307/kaggle_courses/tree/main/Feature_Engineering)
 - [Intro to Deep Learning](https://github.com/Jalbin1307/kaggle_courses/tree/main/Intro_to_Deep_Learning)
+
 
 
 ## Certificate

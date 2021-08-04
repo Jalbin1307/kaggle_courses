@@ -13,6 +13,7 @@
 - [Intermediate Machine Learning](https://github.com/Jalbin1307/kaggle_courses/tree/main/Intermediate_Machine_Learning)
 - [Feature Engineering](https://github.com/Jalbin1307/kaggle_courses/tree/main/Feature_Engineering)
 - [Intro to Deep Learning](https://github.com/Jalbin1307/kaggle_courses/tree/main/Intro_to_Deep_Learning)
+- [Computer Vision](https://github.com/Jalbin1307/kaggle_courses/tree/main/Computer_Vision)
 
 
 
